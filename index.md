@@ -15,10 +15,10 @@ To get started with the MRZ Scanner, please visit the documentation link for the
 <div class="editionList"></div>
 
 * Web (Client Side):
-  * ![Web Icon]({{site.assets}}img-icon/homepage/js.svg){:class="js"} [Web]({{ site.mrz_js }}){:target="_blank"}
+  * ![Web Icon]({{site.assets}}img-icon/homepage/js.svg){:class="js"} [Web]({{ site.mrz_js }}guides/mrz-scanner.html){:target="_blank"}
 * Mobile:
-  * ![Android Icon]({{site.assets}}img-icon/homepage/Android.svg){:class="android"} [Android]({{ site.dcvb_mobile }}programming/android/user-guide/mrz.html){:target="_blank"}
-  * ![iOS Icon]({{site.assets}}img-icon/homepage/iOS.svg){:class="ios"} [iOS]({{ site.dcvb_mobile }}programming/ios/user-guide/mrz.html){:target="_blank"}
+  * ![Android Icon]({{site.assets}}img-icon/homepage/Android.svg){:class="android"} [Android]({{ site.mrz_mobile }}programming/android/user-guide/index.html){:target="_blank"}
+  * ![iOS Icon]({{site.assets}}img-icon/homepage/iOS.svg){:class="ios"} [iOS]({{ site.mrz_mobile }}programming/ios/user-guide/index.html){:target="_blank"}
   * ![MAUI Icon]({{site.assets}}img-icon/homepage/MAUI.svg){:class="maui"} [MAUI]({{ site.dcvb_mobile }}programming/maui/user-guide/mrz.html){:target="_blank"}
 * Server / Desktop:
   * ![Python Icon]({{site.assets}}img-icon/homepage/Python.svg){:class="python"} [Python]({{ site.dcvb_server }}programming/python/user-guide/mrz-scanner.html){:target="_blank"}
