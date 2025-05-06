@@ -1,0 +1,51 @@
+repository: dynamsoft-docs/mrz-scanner-docs
+repositoryUrl: https://github.com/dynamsoft-docs/mrz-scanner-docs/blob/main
+docFullPath: https://www.dynamsoft.com/mrz-scanner/docs/
+firstLevelUrl: /mrz-scanner/docs/core/
+docHomePage: /mrz-scanner/docs/core/introduction/
+
+introduction: /mrz-scanner/docs/web/introduction/
+gettingstarted: /mrz-scanner/docs/web/gettingstarted/
+codegallery: /mrz-scanner/docs/web/codegallery/
+api: /mrz-scanner/docs/web/api/
+releasenotes: /mrz-scanner/docs/web/releasenotes/
+
+license_activation: /capture-vision/docs/core/license/
+
+dcvb_js: /capture-vision/docs/web/programming/javascript/
+dcvb_mobile: /capture-vision/docs/mobile/
+dcvb_server: /capture-vision/docs/server/
+dcvb_root: /capture-vision/docs/core/
+
+mrz_js: /mrz-scanner/docs/web/
+
+useVersionTree: true
+
+assets: /mrz-scanner/docs/core/assets/
+edit_icon: /mrz-scanner/docs/core/assets/img-icon/edit-icon.png
+smile_icon: /mrz-scanner/docs/core/assets/img-icon/icon-smile.png
+sad_icon: /mrz-scanner/docs/core/assets/img-icon/icon-sad.png
+
+baseurl: "/mrz-scanner/docs/core"
+
+download: "/mrz-scanner/downloads/"
+
+plugins:
+  - jemoji
+  - jekyll-sitemap
+
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default-layout"
+      noTitleIndex: true
+      needAutoGenerateSidebar: true
+      needGenerateH3Content: true
+  - scope:
+      path: "Hide_Tree_Page.html"
+    values:
+      sitemap: false
+
+url: "https://www.dynamsoft.com" # sitemap root
