@@ -8,7 +8,7 @@ description: Dynamsoft MRZ Scanner Documentation Homepage
 
 # Dynamsoft MRZ Scanner Documentation
 
-The **Dynamsoft MRZ Scanner** is the solution to help you integrate MRZ scanning and reading functionality easily and quickly into your application, whether it is a web application, a native mobile application, or a desktop/server application. The MRZ Scanner relies on three of Dynamsoft's core foundational products, the [**Label Recognizer**]({{ site.dcvb_root }}introduction/index.html#dynamsoft-label-recognizer), the [**Code Parser**]({{ site.dcvb_root }}introduction/index.html#dynamsoft-code-parser), and the [**Camera Enhancer**]({{ site.dcvb_root }}introduction/index.html#dynamsoft-camera-enhancer).
+The **Dynamsoft MRZ Scanner** is the solution to help you integrate MRZ scanning and reading functionality easily and quickly into your application, whether it is a web application, a native mobile application, or a desktop/server application. The MRZ Scanner relies on three of Dynamsoft's core foundational products, the **Label Recognizer**, the **Code Parser**, and the **Camera Enhancer**.
 
 To get started with the MRZ Scanner, please visit the documentation link for the edition that you are looking to use.
 
