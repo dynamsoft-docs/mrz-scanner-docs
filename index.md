@@ -20,7 +20,7 @@ To get started with the MRZ Scanner, please visit the documentation link for the
   * ![Android Icon]({{site.assets}}img-icon/homepage/Android.svg){:class="android"} [Android]({{ site.mrz_mobile }}programming/android/user-guide/index.html){:target="_blank"}
   * ![iOS Icon]({{site.assets}}img-icon/homepage/iOS.svg){:class="ios"} [iOS]({{ site.mrz_mobile }}programming/ios/user-guide/index.html){:target="_blank"}
   * ![MAUI Icon]({{site.assets}}img-icon/homepage/MAUI.svg){:class="maui"} [MAUI]({{ site.mrz_mobile }}programming/maui/user-guide/index.html){:target="_blank"}
-  * ![React Native Icon]({{site.assets}}img-icon/homepage/MAUI.svg){:class="react"} [React Native]({{ site.mrz_mobile }}programming/react-native/user-guide/index.html){:target="_blank"}
+  * ![React Native Icon]({{site.assets}}img-icon/homepage/React Native.svg){:class="react"} [React Native]({{ site.mrz_mobile }}programming/react-native/user-guide/index.html){:target="_blank"}
   * ![Flutter Icon]({{site.assets}}img-icon/homepage/Flutter.svg){:class="flutter"} [Flutter]({{ site.mrz_mobile }}programming/flutter/user-guide/index.html){:target="_blank"}
 * Server / Desktop:
   * ![Python Icon]({{site.assets}}img-icon/homepage/Python.svg){:class="python"} [Python]({{ site.dcvb_server }}programming/python/user-guide/mrz-scanner.html){:target="_blank"}
